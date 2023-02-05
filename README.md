@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey :dizzy:
+
+I'm currently working as an engineer at BCGDV.
+
+These repositories are mostly about my favourite topics:
+- interactive storytelling
+- graphic design
+- data science and analytics
+- creative coding
+
+-- Alisa
 
 <!--
 **kor-al/kor-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
