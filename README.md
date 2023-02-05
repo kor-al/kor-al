@@ -1,7 +1,5 @@
 ### Hey :dizzy:
 
-I'm currently working as an engineer at BCGDV.
-
 These repositories are mostly about my favourite topics:
 - interactive storytelling
 - graphic design
