@@ -1,10 +1,14 @@
 ### Hey :dizzy:
 
-These repositories are mostly about my favourite topics:
-- interactive storytelling
-- graphic design
-- data science and analytics
-- creative coding
+I'm exploring interactive storytelling, graphic design, creative coding, data science and analytics.
+
+Some of my recent works:
+
+- [Forbes World’s Billionaires List 2022: Interactive Shiny Dataviz (R, Shiny)](https://github.com/kor-al/Forbes-Billionaires-shiny-dataviz)
+- [Pokemons data visualization (d3.js, React)](https://github.com/kor-al/pokemon)
+- [Scissors Gallery](https://github.com/kor-al/cizars-gallery)
+- [Scissors 3D Story (three.js, GLSL)](https://github.com/kor-al/scissors)
+- [Poring data visualization (d3.js)](https://github.com/kor-al/porings)
 
 -- Alisa
 
