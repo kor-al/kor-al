@@ -1,6 +1,6 @@
 ### Hey :dizzy:
 
-I'm exploring interactive storytelling, graphic design, creative coding, data science and analytics.
+I'm exploring interactive storytelling, graphic design, 3D, creative coding and data science.
 
 Some of my recent works:
 
