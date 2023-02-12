@@ -5,7 +5,7 @@ I'm exploring interactive storytelling, graphic design, 3D, creative coding and 
 Some of my recent works:
 
 - [Forbes World’s Billionaires List 2022: Interactive Shiny Dataviz (R, Shiny)](https://github.com/kor-al/Forbes-Billionaires-shiny-dataviz)
-- [Pokemons data visualization (d3.js, React)](https://github.com/kor-al/pokemon)
+- [Pokemon data visualization (d3.js, React)](https://github.com/kor-al/pokemon)
 - [Scissors Gallery (art)](https://github.com/kor-al/cizars-gallery) and [Scissors 3D Story (three.js, GLSL)](https://github.com/kor-al/scissors)
 - [Poring data visualization (d3.js)](https://github.com/kor-al/porings)
 
